@@ -1,5 +1,5 @@
 extensions:
-- source: https://github.com/eclipse/che-theia
+- source: https://github.com/hzheng44/che-theia
   folders:
     - dockerfiles/theia-endpoint-runtime
     - extensions/eclipse-che-theia-plugin
@@ -9,4 +9,5 @@ extensions:
     - extensions/che-theia-hosted-plugin-manager-extension
     - extensions/eclipse-che-theia-dashboard
     - extensions/eclipse-che-theia-activity-tracker
+    - extensions/edit-event-extension
   checkoutTo: master
